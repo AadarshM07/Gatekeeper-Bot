@@ -1,0 +1,5 @@
+.env
+venv
+__pycache__/
+*.log
+gatekeeper-463405-7c90c42b22ef.json
